@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0005-longest-palindromic-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0647-palindromic-substrings) |
 ## Queue
 |  |
 | ------- |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
 | ------- |
