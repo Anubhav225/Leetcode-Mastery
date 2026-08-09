@@ -71,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1392-longest-happy-prefix) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
