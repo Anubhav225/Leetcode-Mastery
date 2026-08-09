@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0214-shortest-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0459-repeated-substring-pattern) |
@@ -40,16 +41,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0214-shortest-palindrome) |
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0459-repeated-substring-pattern) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
