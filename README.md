@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0647-palindromic-substrings) |
+| [1392-longest-happy-prefix](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1392-longest-happy-prefix) |
 ## Queue
 |  |
 | ------- |
@@ -47,22 +48,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0459-repeated-substring-pattern) |
+| [1392-longest-happy-prefix](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
