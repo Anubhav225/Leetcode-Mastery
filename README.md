@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0647-palindromic-substrings) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1392-longest-happy-prefix) |
 ## Queue
 |  |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0140-word-break-ii) |
+## Stack
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
