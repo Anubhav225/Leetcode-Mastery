@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0647-palindromic-substrings) |
 | [0856-score-of-parentheses](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0856-score-of-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1392-longest-happy-prefix) |
 ## Queue
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0856-score-of-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
 |  |
