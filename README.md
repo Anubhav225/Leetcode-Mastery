@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0227-basic-calculator-ii) |
 ## Binary Search
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0394-decode-string) |
