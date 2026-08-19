@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0424-longest-repeating-character-replacement) |
 ## String
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0227-basic-calculator-ii) |
 ## Binary Search
@@ -166,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
