@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0424-longest-repeating-character-replacement) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0142-linked-list-cycle-ii) |
 | [0647-palindromic-substrings](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -156,8 +158,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
