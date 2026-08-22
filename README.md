@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0647-palindromic-substrings) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0394-decode-string) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0227-basic-calculator-ii) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
