@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0424-longest-repeating-character-replacement) |
+| [0460-lfu-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0460-lfu-cache) |
 ## String
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -235,8 +237,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
