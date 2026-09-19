@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0876-middle-of-the-linked-list) |
+| [1206-design-skiplist](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1206-design-skiplist) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -243,4 +244,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0460-lfu-cache) |
+| [1206-design-skiplist](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1206-design-skiplist) |
 <!---LeetCode Topics End-->
