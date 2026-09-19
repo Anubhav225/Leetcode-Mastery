@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0387-first-unique-character-in-a-string) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0206-reverse-linked-list) |
@@ -231,5 +233,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
