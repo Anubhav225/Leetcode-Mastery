@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0227-basic-calculator-ii) |
+| [0445-add-two-numbers-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0445-add-two-numbers-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0445-add-two-numbers-ii) |
 | [0856-score-of-parentheses](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0876-middle-of-the-linked-list) |
 | [1206-design-skiplist](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1206-design-skiplist) |
