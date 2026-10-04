@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0445-add-two-numbers-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1019-next-greater-node-in-linked-list) |
 | [1206-design-skiplist](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1206-design-skiplist) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
