@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1019-next-greater-node-in-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0445-add-two-numbers-ii) |
 | [0856-score-of-parentheses](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0856-score-of-parentheses) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0402-remove-k-digits) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1019-next-greater-node-in-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1019-next-greater-node-in-linked-list) |
 | [1206-design-skiplist](https://github.com/Anubhav225/Leetcode-Mastery/tree/master/1206-design-skiplist) |
 ## Floyd's Cycle Finding Algorithm
 |  |
